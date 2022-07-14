@@ -12,7 +12,7 @@ class MainActivity : AppCompatActivity() {
 
     lateinit var player: SimpleExoPlayer
 
-    val rtspUri = "rtsp://wowzaec2demo.streamlock.net/vod/mp4:BigBuckBunny_115k.mov"
+    val rtspUri = "rtsp://wowzaec2demo.streamlock.net/vod/mp4:BigBuckBunny_115k.mp4"
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
